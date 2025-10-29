@@ -14,8 +14,8 @@ Strong analytical thinking, self-motivation, and a passion for solving real-worl
 
 
 - 🔭 I’m currently working on
-- <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-area">Project 1 <a/>
-- <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Project 2 <a/>
+- <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-area">Breast Cancer Classifiaction <a/>
+- <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Prediction on stroke data<a/>
 
 -  
 - 🌱 I’m currently learning Deep Learning and Computer vision 
