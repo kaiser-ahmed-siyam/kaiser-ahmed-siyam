@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'am Kaiser Ahmed. 
 #### Machine Learning engineer . 
-Strong analytical thinking, self-motivation, and a passion for solving real-world problems using data analytics and machine learning.
+Strong analytical thinking, self-motivation, and a passion for solving real-world problems using data analytics, machine learning, computer vision and deep learning.
 
 
 <p>
