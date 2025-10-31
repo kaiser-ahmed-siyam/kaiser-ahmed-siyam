@@ -22,7 +22,7 @@ Strong analytical thinking, self-motivation, and a passion for solving real-worl
 - 👯 I’m looking to collaborate on Ml and AI 
 - 🤔 I’m looking for help with Deep  learning core concepts 
 - 💬 Ask me about Data preprocessing  and Modeling 
-- 📫 How to reach me: <a href ="https://www.linkedin.com/in/kaiser-ahmed-siyam/">LinkedIn</a>
+- 📫 How to reach me: <a href ="kaiserahmed2001@gmail.com">LinkedIn</a>
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/Kaiser-Ahmed-Siyam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaiser-ahmed-siyam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sk.ahmed.100046)  
