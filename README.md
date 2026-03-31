@@ -17,7 +17,11 @@ Strong analytical thinking, self-motivation, and a passion for solving real-worl
 - <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-area">Breast Cancer Classifiaction <a/>
 - <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Prediction on stroke data<a/>
 
--  
+### Generative AI Project
+-AI-Agent using langgraph, FastAPI
+
+
+
 - 🌱 I’m currently learning Deep Learning and Computer vision 
 - 👯 I’m looking to collaborate on Ml and AI 
 - 🤔 I’m looking for help with Deep  learning core concepts 
