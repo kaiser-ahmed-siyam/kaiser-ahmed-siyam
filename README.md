@@ -35,7 +35,7 @@ Strong analytical thinking, self-motivation, and a passion for solving real-worl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Kaiser-Ahmed-Siyam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Kaiser-Ahmed-Siyam&show_icons=true)  
+![GitHub stats](![kaiser-ahmed-siyam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser-ahmed-siyam&theme=dark&show_icons=true&hide_border=false&layout=compact)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Kaiser-Ahmed-Siyam/contributions?format=svg&private=false)  
 
