@@ -31,13 +31,12 @@ Strong analytical thinking, self-motivation, and a passion for solving real-worl
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/Kaiser-Ahmed-Siyam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaiser-ahmed-siyam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sk.ahmed.100046)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Kaiser-Ahmed-Siyam)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![kaiser-ahmed-siyam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser-ahmed-siyam&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-![kaiser-ahmed-siyam's Stats](https://github-readme-stats.vercel.app/api?username=kaiser-ahmed-siyam&theme=dark&show_icons=true&hide_border=false&count_private=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Kaiser-Ahmed-Siyam&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Kaiser-Ahmed-Siyam/contributions?format=svg&private=false)  
 
 ![kaiser-ahmed-siyam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaiser-ahmed-siyam&theme=dark&hide_border=false)  
 
