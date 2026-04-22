@@ -33,12 +33,12 @@ Strong analytical thinking, self-motivation, and a passion for solving real-worl
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Kaiser-Ahmed-Siyam)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Kaiser-Ahmed-Siyam)](https://github.com/anuraghazra/github-readme-stats)
+![kaiser-ahmed-siyam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiser-ahmed-siyam&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Kaiser-Ahmed-Siyam&show_icons=true)  
+![kaiser-ahmed-siyam's Stats](https://github-readme-stats.vercel.app/api?username=kaiser-ahmed-siyam&theme=dark&show_icons=true&hide_border=false&count_private=false)
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Kaiser-Ahmed-Siyam/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Kaiser-Ahmed-Siyam)  
+![kaiser-ahmed-siyam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaiser-ahmed-siyam&theme=dark&hide_border=false)  
 
 
