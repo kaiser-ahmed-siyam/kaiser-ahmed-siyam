@@ -18,7 +18,7 @@ Strong analytical thinking, self-motivation, and a passion for solving real-worl
 - <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Prediction on stroke data<a/>
 
 
-# Generative AI Project
+# Generative AI Projects
 -<a href="https://ai-agents-n59d.onrender.com">🚀 Real-Time AI Agent<a/>
 
 A **real-time AI agent system** that performs intelligent reasoning, dynamic tool selection, and live web search to generate accurate, context-aware responses. Built with a modular architecture, the agent can autonomously decide when to use external tools or rely on the language model, enabling multi-step problem solving beyond traditional chatbots.
