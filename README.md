@@ -32,7 +32,31 @@ A **real-time AI agent system** that performs intelligent reasoning, dynamic too
 - **LLaMA Model** – Response generation and reasoning  
 - **FastAPI** – High-performance backend for real-time interaction  
 
--<a href="https://github.com/kaiser-ahmed-siyam/MedicalChatBot">Medical Chat-Bot<a/>
+-<a href="https://github.com/kaiser-ahmed-siyam/MedicalChatBot">## 🩺 Medical Chatbot (AI-Powered)<a/>
+
+An intelligent medical chatbot designed to provide accurate and context-aware responses to user health-related queries. The system leverages retrieval-augmented generation (RAG) to fetch relevant medical information from a vector database and generate reliable answers using advanced prompt engineering techniques.
+
+### 🚀 Key Features
+- Context-aware medical question answering
+- Retrieval-based response generation (RAG)
+- Efficient semantic search using embeddings
+- Scalable API for real-time interaction
+- Clean and modular backend architecture
+
+### 🛠️ Tech Stack
+
+| Category              | Tools & Technologies              |
+|----------------------|----------------------------------|
+| LLM Framework        | LangChain                        |
+| Backend API          | Flask API                        |
+| Database             | Vector Database (for embeddings) |
+| AI Techniques        | Prompt Engineering               |
+| Architecture         | Retrieval-Augmented Generation   |
+
+### 📌 Use Cases
+- Health-related Q&A assistant
+- Medical knowledge retrieval system
+- AI-powered chatbot integration for healthcare apps
 
 
     
