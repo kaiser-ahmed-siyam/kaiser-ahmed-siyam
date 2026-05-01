@@ -37,12 +37,6 @@ A **real-time AI agent system** that performs intelligent reasoning, dynamic too
 
 An intelligent medical chatbot designed to provide accurate and context-aware responses to user health-related queries. The system leverages retrieval-augmented generation (RAG) to fetch relevant medical information from a vector database and generate reliable answers using advanced prompt engineering techniques.
 
-### 🚀 Key Features
-- Context-aware medical question answering
-- Retrieval-based response generation (RAG)
-- Efficient semantic search using embeddings
-- Scalable API for real-time interaction
-- Clean and modular backend architecture
 
 ### 🛠️ Tech Stack
 
@@ -54,10 +48,7 @@ An intelligent medical chatbot designed to provide accurate and context-aware re
 | AI Techniques        | Prompt Engineering               |
 | Architecture         | Retrieval-Augmented Generation   |
 
-### 📌 Use Cases
-- Health-related Q&A assistant
-- Medical knowledge retrieval system
-- AI-powered chatbot integration for healthcare apps
+
 
 
     
