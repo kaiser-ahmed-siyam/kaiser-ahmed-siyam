@@ -52,11 +52,12 @@ An intelligent medical chatbot designed to provide accurate and context-aware re
 
 
     
-``
+```
+```
 - 🌱 I’m currently learning Deep Learning and Computer vision projects
 - 👯 I’m looking to collaborate on Ml and AI 
 - 💬 Ask me also about Data preprocessing  and Modeling
-```
+
 - 📫 How to reach me: <a href ="mailto:kaiserahmed2001@gmail.com" target="_blank">Kaiser Ahmed<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="30" height="30"></a>
 
 
