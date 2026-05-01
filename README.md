@@ -17,7 +17,8 @@ Strong analytical thinking, self-motivation, and a passion for solving real-worl
 - <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-area">Breast Cancer Classifiaction <a/>
 - <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Prediction on stroke data<a/>
 
-### Generative AI Project
+```
+# Generative AI Project
 -<a href="https://ai-agents-n59d.onrender.com">🚀 Real-Time AI Agent<a/>
 
 A **real-time AI agent system** that performs intelligent reasoning, dynamic tool selection, and live web search to generate accurate, context-aware responses. Built with a modular architecture, the agent can autonomously decide when to use external tools or rely on the language model, enabling multi-step problem solving beyond traditional chatbots.
@@ -58,7 +59,7 @@ An intelligent medical chatbot designed to provide accurate and context-aware re
 - Medical knowledge retrieval system
 - AI-powered chatbot integration for healthcare apps
 
-
+```
     
 ```
 - 🌱 I’m currently learning Deep Learning and Computer vision 
