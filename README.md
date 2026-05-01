@@ -19,17 +19,18 @@ Strong analytical thinking, self-motivation, and a passion for solving real-worl
 
 ### Generative AI Project
 -<a href="https://ai-agents-n59d.onrender.com">🚀 Real-Time AI Agent<a/>
-    <p> A real-time AI agent system that performs intelligent reasoning, dynamic tool selection
-        and live web search to generate accurate, context-aware responses. Built with a modular architecture,
-        the agent can autonomously decide when to use external tools or rely on the language model, 
-        enabling multi-step problem solving beyond traditional chatbots.
-        </p>
-     <p>🧰 Tools & Technologies
-            LangChain – LLM pipeline and tool integration
-            LangGraph – Stateful agent workflow and multi-step reasoning
-            Tavily Search API – Real-time web search and retrieval
-            LLaMA Model – Response generation and reasoning
-            FastAPI – High-performance backend for real-time interaction<p/>
+
+A **real-time AI agent system** that performs intelligent reasoning, dynamic tool selection, and live web search to generate accurate, context-aware responses. Built with a modular architecture, the agent can autonomously decide when to use external tools or rely on the language model, enabling multi-step problem solving beyond traditional chatbots.
+
+---
+
+#### 🧰 Tools & Technologies
+
+- **LangChain** – LLM pipeline and tool integration  
+- **LangGraph** – Stateful agent workflow and multi-step reasoning  
+- **Tavily Search API** – Real-time web search and retrieval  
+- **LLaMA Model** – Response generation and reasoning  
+- **FastAPI** – High-performance backend for real-time interaction  
 
 -<a href="https://github.com/kaiser-ahmed-siyam/MedicalChatBot">Medical Chat-Bot<a/>
 
