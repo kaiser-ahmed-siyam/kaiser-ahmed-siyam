@@ -10,9 +10,9 @@
 
 ---
 
+🎓 Statistics Undergraduate student (4th year)| Aspiring Data Scientist |Machine Learning & Data Analysis Enthusiast.<br>
 🧠 Self-driven engineer with strong analytical skills and solid foundations in ML/DL core concepts.
-Deeply passionate about **Computer Vision** and **Generative AI** — turning complex data into scalable, real-world solutions.
-🎓 Statistics Undergraduate student (4th year)| Aspiring Data Scientist |Machine Learning & Data Analysis Enthusiast.
+Deeply passionate about **Computer Vision** and **Generative AI** — turning complex data into scalable, real-world solutions. I enjoy exploring modern AI technologies to solve real-world problems. My technical experience includes working with Python, Machine Learning frameworks, Deep Learning models, data analysis and AI-powered applications. I am also interested in building optimized and scalable AI-driven systems and continuously improving my skills through hands-on projects and research.
 
 
 ---
