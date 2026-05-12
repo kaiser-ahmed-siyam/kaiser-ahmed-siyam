@@ -2,11 +2,18 @@
 
 # 👋 Hi, I'm Kaiser Ahmed
 **🤖ML & AI Engineer** . Computer Vision · Generative AI · Deep Learning
+![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square)
+![ML Engineer](https://img.shields.io/badge/ML%20%26%20AI-Engineer-7B68EE?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Focus-Computer%20Vision-teal?style=flat-square)
+![GenAI](https://img.shields.io/badge/Focus-Generative%20AI-orange?style=flat-square)
+
 
 ---
 
 🧠 Self-driven engineer with strong analytical skills and solid foundations in ML/DL core concepts.
 Deeply passionate about **Computer Vision** and **Generative AI** — turning complex data into scalable, real-world solutions.
+🎓 Statistics Undergraduate student (4th year)| Aspiring Data Scientist |Machine Learning & Data Analysis Enthusiast.
+
 
 ---
 
@@ -37,22 +44,9 @@ Deeply passionate about **Computer Vision** and **Generative AI** — turning co
 ![GenAI](https://img.shields.io/badge/Focus-Generative%20AI-orange?style=flat-square)
 
 </div>
-<p>
- 🎓 Statistics Undergraduate (4th year)| Aspiring Data Scientist |Machine Learning & Data Analysis Enthusiast
-</p>
 
 
-
-
-
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kaiser.ahmed.siyam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaiser-ahmed-siyam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaiserahmed2001@gmail.com) 
-
-
-- 🔭 I’m currently working on
+# ML projects
 - <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-area">Breast Cancer Classifiaction <a/>
 - <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Prediction on stroke data<a/>
 
@@ -87,12 +81,14 @@ An intelligent medical chatbot designed to provide accurate and context-aware re
 | AI Techniques        | Prompt Engineering               |
 | Architecture         | Retrieval-Augmented Generation   |
 
-
-
-
     
-```
-```
+---
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kaiser.ahmed.siyam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaiser-ahmed-siyam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaiserahmed2001@gmail.com) 
+
+
+---
 
 
 # 📊 GitHub Stats:
