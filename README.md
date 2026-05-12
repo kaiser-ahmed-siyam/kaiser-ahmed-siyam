@@ -38,11 +38,6 @@ Deeply passionate about **Computer Vision** and **Generative AI** — turning co
 
 > *"Driven by curiosity. Guided by data. Building the future with AI."*
 
-![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square)
-![ML Engineer](https://img.shields.io/badge/ML%20%26%20AI-Engineer-7B68EE?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Focus-Computer%20Vision-teal?style=flat-square)
-![GenAI](https://img.shields.io/badge/Focus-Generative%20AI-orange?style=flat-square)
-
 </div>
 
 
