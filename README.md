@@ -8,6 +8,46 @@ in Computer Vision and GenAI. I turn complex data into scalable, real-world solu
 🔬 Interests: CV · LLMs · Diffusion Models · Neural Architectures
 🛠 Stack: Python · PyTorch · TensorFlow · OpenCV · HuggingFace
 📈 Always learning. Always building.
+<div align="center">
+
+# 👋 Hi, I'm [Kaiser Ahmed]
+
+**ML & AI Engineer** — Computer Vision · Generative AI · Deep Learning
+
+---
+
+🧠 Self-driven engineer with strong analytical skills and solid foundations in ML/DL core concepts.
+Deeply passionate about **Computer Vision** and **Generative AI** — turning complex data into scalable, real-world solutions.
+
+---
+
+### 🔬 Interests
+`Computer Vision` `Generative AI` `Large Language Models` `Diffusion Models` `Neural Architectures`
+
+### 🛠 Tech Stack
+`Python` `PyTorch` `TensorFlow` `OpenCV` `HuggingFace` `Scikit-learn` `NumPy` `Pandas`
+
+---
+
+### 📊 Focus Areas
+
+| Area | Topics |
+|------|--------|
+| 👁 Computer Vision | Image Classification, Object Detection, Segmentation |
+| 🤖 Generative AI | LLMs, Diffusion Models, Prompt Engineering |
+| 🧬 Deep Learning | CNNs, Transformers, Transfer Learning |
+| 📈 ML Core | Supervised/Unsupervised Learning, Model Optimization |
+
+---
+
+> *"Driven by curiosity. Guided by data. Building the future with AI."*
+
+![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square)
+![ML Engineer](https://img.shields.io/badge/ML%20%26%20AI-Engineer-7B68EE?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Focus-Computer%20Vision-teal?style=flat-square)
+![GenAI](https://img.shields.io/badge/Focus-Generative%20AI-orange?style=flat-square)
+
+</div>
 <p>
  🎓 Statistics Undergraduate (3rd year)| Aspiring Data Scientist |Machine Learning & Data Analysis Enthusiast
 </p>
