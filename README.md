@@ -1,11 +1,15 @@
-# 💫 About Me:
-#### Machine Learning & AI engineer. 
-Strong analytical thinking, self-motivation, and a passion for solving real-world problems using data analytics, machine learning, computer vision and deep learning.
+# 💫 Kaiser Ahmed
+🤖 ML & AI Engineer | Computer Vision · Generative AI · Deep Learning
 
+Self-driven engineer with a strong analytical mindset and solid foundations in
+ML/DL core concepts. Passionate about building intelligent systems — especially
+in Computer Vision and GenAI. I turn complex data into scalable, real-world solutions.
 
+🔬 Interests: CV · LLMs · Diffusion Models · Neural Architectures
+🛠 Stack: Python · PyTorch · TensorFlow · OpenCV · HuggingFace
+📈 Always learning. Always building.
 <p>
-🎓 Statistics Undergraduate (3rd year)| Aspiring Data Scientist | Machine Learning & Data Analysis Enthusiast
-
+ 🎓 Statistics Undergraduate (3rd year)| Aspiring Data Scientist |Machine Learning & Data Analysis Enthusiast
 </p>
 
 
