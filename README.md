@@ -1,8 +1,6 @@
 <div align="center">
 
 # 👋 Hi, I'm Kaiser Ahmed
-`Python` `PyTorch` `TensorFlow` `OpenCV` `HuggingFace` `Scikit-learn` `Computer Vision` `Generative AI` `Large Language Models` `Neural Architectures`
-
 **🤖ML & AI Engineer** . Computer Vision · Generative AI · Deep Learning
 
 ---
