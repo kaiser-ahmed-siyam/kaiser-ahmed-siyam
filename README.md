@@ -36,7 +36,8 @@ Deeply passionate about **Computer Vision** and **Generative AI** — turning co
 
 ---
 
-> *"Driven by curiosity. Guided by data. Building the future with AI."*
+>
+*"Driven by curiosity. Guided by data. Building the future with AI."*
 
 </div>
 
