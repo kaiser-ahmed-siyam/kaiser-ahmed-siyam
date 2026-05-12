@@ -1,4 +1,4 @@
-[![Machine Learning & AI engineer . ](/Photos/Git Cover photo.jpg)]
+[!][Machine Learning & AI engineer . ](/Photos/Git Cover photo.jpg)]
 
 ### Hi there 👋, I'am Kaiser Ahmed. 
 #### Machine Learning engineer . 
