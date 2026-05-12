@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### Machine Learning engineer. 
+#### Machine Learning & AI engineer. 
 Strong analytical thinking, self-motivation, and a passion for solving real-world problems using data analytics, machine learning, computer vision and deep learning.
 
 
