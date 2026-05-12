@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Kaiser Ahmed
-**🤖ML & AI Engineer** . Computer Vision · Generative AI · Deep Learning
+**🤖ML & AI Engineer** . Computer Vision · Generative AI · Deep Learning<br>
 ![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square)
 ![ML Engineer](https://img.shields.io/badge/ML%20%26%20AI-Engineer-7B68EE?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Focus-Computer%20Vision-teal?style=flat-square)
