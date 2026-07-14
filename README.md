@@ -43,6 +43,22 @@ Deeply passionate about **Computer Vision** and **Generative AI** — turning co
 
 
 # ML projects
+#### [📈 DSE Stock Price Prediction](https://github.com/kaiser-ahmed-siyam/Stock-Price-Prediction) &nbsp; | &nbsp; [Live Demo]()  &nbsp; | &nbsp; [Web Application](https://stock-price-prediction-iw1s.onrender.com/)
+
+An end-to-end machine learning application for forecasting DSE stock prices from historical market data.
+
+### 🚀 Highlights
+- End-to-end ML pipeline with feature engineering
+- Time-series forecasting using historical stock data
+- FastAPI backend with RESTful APIs
+- Interactive web dashboard
+- Automated model training & deployment
+- Production-ready project structure
+- Cloud deployment on Render
+
+**Tech Stack:** 
+Python, FastAPI, Scikit-learn, Pandas, NumPy, Pydantic, HTML, CSS, JavaScript, Render.
+
 - <a href ="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-area">Breast Cancer Classifiaction <a/>
 - <a href = "https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data/edit ">Prediction on stroke data<a/>
 
