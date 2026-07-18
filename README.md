@@ -43,7 +43,7 @@ Deeply passionate about **Computer Vision** and **Generative AI** — turning co
 
 
 # ML projects
-#### [📈 DSE Stock Price Prediction](https://github.com/kaiser-ahmed-siyam/Stock-Price-Prediction) &nbsp; | &nbsp; [Live Demo]()  &nbsp; | &nbsp; [Web Application](https://stock-price-prediction-iw1s.onrender.com/)
+#### [📈 DSE Stock Price Prediction](https://github.com/kaiser-ahmed-siyam/Stock-Price-Prediction) &nbsp; | &nbsp; [Live Demo](https://drive.google.com/file/d/1_tsicHBFkXXyiYBPptdPItM6CFpwElQK/view?usp=sharing)  &nbsp; | &nbsp; [Web Application](https://stock-price-prediction-iw1s.onrender.com/)
 
 An end-to-end machine learning application for forecasting DSE stock prices from historical market data.
 
