@@ -1,4 +1,285 @@
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                              HEADER                                  -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=190&section=header&text=Kaiser%20Ahmed&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%C2%B7%20LLMs%20%C2%B7%20Generative%20AI&descSize=20&descAlignY=58" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=8E2DE2&center=true&vCenter=true&width=620&lines=ML+%26+AI+Engineer+%7C+Statistics+Undergraduate;Building+AI+Agents+%C2%B7+RAG+Systems+%C2%B7+ML+Pipelines;Turning+Data+Into+Scalable+Real-World+Solutions" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/kaiser-ahmed-siyam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:kaiserahmed2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.kaggle.com/kaiserahmedsiyam"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
+<a href="https://www.facebook.com/kaiser.ahmed.siyam"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-Open_To_Opportunities-2EA44F?style=flat-square&labelColor=1a1b27" alt="Open to Opportunities"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=kaiser-ahmed-siyam&style=flat-square&color=8E2DE2&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                             ABOUT ME                                 -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## 🧑‍💻 About Me
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200"><b>🤖 &nbsp;Role</b></td>
+    <td width="600">Machine Learning & AI Engineer</td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>🎓 &nbsp;Education</b></td>
+    <td width="600">B.Sc. in Statistics — 4th Year</td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>❤️ &nbsp;Passionate About</b></td>
+    <td width="600">RAG &nbsp;·&nbsp; Computer Vission &nbsp;·&nbsp; Generative AI &nbsp;·&nbsp; LLMs</td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>🛠️ &nbsp;Currently Building</b></td>
+    <td width="600">AI Agents &nbsp;·&nbsp; RAG Systems &nbsp;·&nbsp; End-to-End ML Pipelines</td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>📚 &nbsp;Currently Learning</b></td>
+    <td width="600">Diffusion Models &nbsp;·&nbsp; MLOps &nbsp;·&nbsp; Multi-Agent Systems</td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>🎯 &nbsp;Mission</b></td>
+    <td width="600">Turning complex data into scalable, real-world AI solutions</td>
+  </tr>
+</table>
+
+</div>
+
+> 💡 &nbsp;*I ship **complete systems** — data → model → API → cloud — and level up continuously through hands-on projects and research.*
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                            TECH STACK                                -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## ## 🛠️ Tech Stack
+ 
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="200"><b>💻 Languages</b></td>
+    <td align="center">
+      <img height="38" src="https://skillicons.dev/icons?i=python,r,c,js,html,css&theme=dark" alt="Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>🤖 ML / Deep Learning</b></td>
+    <td align="center">
+      <img height="38" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ML & DL"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>🧬 Generative AI</b></td>
+    <td align="center">
+      <img height="22" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img height="22" src="https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge" alt="LangGraph"/>
+      <img height="22" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img height="22" src="https://img.shields.io/badge/RAG_·_Vector_DB-8E2DE2?style=for-the-badge" alt="RAG"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>📊 Data & Visualization</b></td>
+    <td align="center">
+      <img height="22" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img height="22" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img height="22" src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+      <img height="22" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+      <img height="22" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+      <img height="22" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>⚙️ Backend & Databases</b></td>
+    <td align="center">
+      <img height="38" src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgres&theme=dark" alt="Backend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>☁️ Cloud & DevOps</b></td>
+    <td align="center">
+      <img height="38" src="https://skillicons.dev/icons?i=aws,git,github,gitlab&theme=dark" alt="Cloud & DevOps"/>&nbsp;
+      <img height="22" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+      <img height="22" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                           FOCUS AREAS                                -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## 🎯 Focus Areas
+
+<div align="center">
+
+| Domain | Expertise |
+|:------:|:----------|
+| 👁️ &nbsp;**Computer Vision** | Image Classification · Object Detection · Segmentation |
+| 🤖 &nbsp;**Generative AI** | LLMs · RAG · AI Agents · Diffusion Models · Prompt Engineering |
+| 🧬 &nbsp;**Deep Learning** | CNNs · Transformers · Transfer Learning |
+| 📈 &nbsp;**ML Core** | Supervised & Unsupervised Learning · Model Optimization |
+| 🔄 &nbsp;**MLOps** | End-to-End Pipelines · CI/CD · Cloud Deployment |
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                         FEATURED PROJECTS                            -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <br/>
+      <h2>⚡</h2>
+      <h3>Real-Time AI Agent</h3>
+      <p align="left">
+        A real-time AI agent with <b>intelligent reasoning</b>, <b>dynamic tool selection</b>, and <b>live web search</b> — autonomously deciding when to invoke tools vs. the LLM for multi-step problem-solving.
+      </p>
+      <p align="left">
+        ✦ Stateful multi-step reasoning (LangGraph)<br/>
+        ✦ Autonomous tool selection<br/>
+        ✦ Live web search via Tavily API<br/>
+        ✦ Real-time FastAPI backend
+      </p>
+      <p>
+        <code>LangChain</code> <code>LangGraph</code> <code>LLaMA</code> <code>FastAPI</code>
+      </p>
+      <a href="https://github.com/kaiser-ahmed-siyam/Ai_Agents-"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" alt="Code"/></a>
+      <a href="https://ai-agents-n59d.onrender.com"><img src="https://img.shields.io/badge/Live_App-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Live App"/></a>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <br/>
+      <h2>📈</h2>
+      <h3>DSE Stock Price Prediction</h3>
+      <p align="left">
+        An <b>end-to-end ML application</b> forecasting Dhaka Stock Exchange prices from historical market data — a complete production pipeline from raw data to deployed dashboard.
+      </p>
+      <p align="left">
+        ✦ Automated feature engineering<br/>
+        ✦ Time-series forecasting<br/>
+        ✦ Interactive dashboard + REST APIs<br/>
+        ✦ Cloud deployment on Render
+      </p>
+      <p>
+        <code>Python</code> <code>FastAPI</code> <code>Scikit-learn</code> <code>Pandas</code>
+      </p>
+      <a href="https://github.com/kaiser-ahmed-siyam/Stock-Price-Prediction"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" alt="Code"/></a>
+      <a href="https://stock-price-prediction-iw1s.onrender.com/"><img src="https://img.shields.io/badge/Live_App-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Live App"/></a>
+      <a href="https://drive.google.com/file/d/1_tsicHBFkXXyiYBPptdPItM6CFpwElQK/view?usp=sharing"><img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo"/></a>
+      <br/><br/>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <br/>
+      <h2>🩺</h2>
+      <h3>Medical Chatbot (RAG)</h3>
+      <p align="left">
+        An intelligent medical chatbot delivering <b>accurate, context-aware answers</b> to health queries — every response grounded in a curated medical knowledge base via <b>RAG</b>.
+      </p>
+      <p align="left">
+        ✦ RAG over a medical corpus<br/>
+        ✦ Semantic search with embeddings<br/>
+        ✦ Advanced prompt engineering<br/>
+        ✦ Flask REST API backend
+      </p>
+      <p>
+        <code>LangChain</code> <code>Flask</code> <code>Vector DB</code> <code>RAG</code>
+      </p>
+      <a href="https://github.com/kaiser-ahmed-siyam/MedicalChatBot"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" alt="Code"/></a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+### 🔬 Data Science Notebooks
+
+<div align="center">
+
+| Notebook | Description | Link |
+|:--------:|:------------|:----:|
+| 🎗️ &nbsp;**Breast Cancer Classification** | Diagnostic modeling on the Wisconsin dataset — EDA, feature selection & model evaluation | <a href="https://www.kaggle.com/code/kaiserahmedsiyam/breast-cancer-wisconsin-diagnostic-area"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a> |
+| 🧠 &nbsp;**Stroke Prediction Analysis** | Risk prediction on stroke data — cleaning, EDA & class-imbalance handling | <a href="https://www.kaggle.com/code/kaiserahmedsiyam/prediction-analysis-on-stroke-data"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a> |
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB ANALYTICS                            -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=kaiser-ahmed-siyam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>&nbsp;
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kaiser-ahmed-siyam&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=kaiser-ahmed-siyam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiser-ahmed-siyam&theme=tokyo-night&hide_border=true&area=true" width="92%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaiser-ahmed-siyam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                               FOOTER                                 -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+
+## 🤝 Let's Connect
+ 
+**Open to collaborations · internships · full-time ML/AI roles**
+ 
+<a href="https://www.linkedin.com/in/kaiser-ahmed-siyam/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:kaiserahmed2001@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://www.facebook.com/share/1BqypFU5jn/"><img src="https://img.shields.io/badge/Follow_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+ 
+<br/><br/>
+
+*"Driven by curiosity. Guided by data. Building the future with AI."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=110&section=footer" width="100%"/>
+
+</div>
+
+<!--<div align="center">
 
 # 👋 Hi, I'm Kaiser Ahmed
 **🤖ML & AI Engineer** . Computer Vision · Generative AI · Deep Learning<br>
@@ -121,3 +402,4 @@ An intelligent medical chatbot designed to provide accurate and context-aware re
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+-->
